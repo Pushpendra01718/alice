@@ -77,9 +77,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://iili.io/2k0SmjR.jpg"
+START_IMG_URL = "https://graph.org/file/ab0e5e65a0ba1a568904e-9896e50054efc79ab4.jpg"
 
-PING_IMG_URL = "https://iili.io/2k0SmjR.jpg"
+PING_IMG_URL = "https://graph.org/file/ab0e5e65a0ba1a568904e-9896e50054efc79ab4.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
